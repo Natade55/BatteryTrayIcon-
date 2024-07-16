@@ -1,6 +1,4 @@
 # BatteryTrayIcon
-BatteryTrayIcon - シンプルなバッテリー残量数値表示ツール
-
 BatteryTrayIconは、Windowsのシステムトレイにバッテリー残量を数値で表示するシンプルなツールです。
 
 主な特徴：
