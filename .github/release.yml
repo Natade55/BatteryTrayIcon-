@@ -1,0 +1,14 @@
+changelog:
+  exclude:
+    labels:
+      - ignore-for-release
+    authors:
+      - octocat
+  categories:
+    - title:  修正点 🛠
+      labels:
+        - Semver-Major
+        - breaking-change
+    - title: その他の変更 🛠
+      labels:
+        - "*"
